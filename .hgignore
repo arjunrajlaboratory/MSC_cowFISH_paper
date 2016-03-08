@@ -1,0 +1,7 @@
+#use glob syntax
+syntax: glob
+
+*.RData
+*.Rhistory
+*.Rproj.user
+*.DS_Store               
