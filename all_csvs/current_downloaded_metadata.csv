@@ -1,0 +1,262 @@
+Cell Type,Clone,Substrate,Loading,Media,Donor,Days CM,Passage,Pre-Fix.Stain,Post-Fix.Stain,Experiment ID,Purpose,Date FISHed,Date Imaged,ImageObject?,Folder,Good?,Data Processed?,FISHed/Processed By,Notes,Treatment.Type,Treatment.Length,GFP.dye,GFP.type,GFP.target,alexa.dye,alexa.target,TMR.dye,TMR.target,cy.dye,cy.target,nir.dye,nir.target,dapi.dye,dapi.target
+MSC,het,glass,static,CM-,,,,,,G1,,6/24/2013,6/25/2013,,/2013-06-25 Ally/CM Minus Media,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,glass,static,CM+,,,,,,G2,,6/24/2013,6/25/2013,,/2013-06-25 Ally/Differentiation Media,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,static,CM-,,,,,,S1,MSCs on scaffolds,6/26/2013,6/27/2013,,/2013-06-27/CM Minus scaffold,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,static,CM+,,,,,,S2,MSCs on scaffolds,6/26/2013,6/27/2013,,/2013-06-27/CM Plus,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,DL,CM-,,,,,,S3,MSCs on scaffolds,6/26/2013,6/27/2013,,/2013-06-27/CM Minus scaffold,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,K,scaffold,DL,CM-,,,,,,S4,MSCs on scaffolds (clone),7/4/2013,7/5/2013,,/2013-07-05/K DL,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,K,scaffold,static,CM-,,,,,,S5,MSCs on scaffolds (clone),7/4/2013,7/5/2013,,/2013-07-05/K Static,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,DL,CM-,,,,,,S6,MSCs on scaffolds,7/8/2013,7/9/2013,,/2013-07-09,y (t),y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,DL,CM-,,,,,,S7,MSCs on scaffolds,7/9/2013,7/10/2013,,/2013-07-10/DL Het,y (t),y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,F,scaffold,DL,CM-,,,,,,S8,MSCs on scaffolds (clone),7/14/2013,7/15/2013,,/2013-07-15/F DL,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,F,scaffold,static,CM-,,,,,,S9,MSCs on scaffolds (clone),7/14/2013,7/15/2013,,/2013-07-15/F Static,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,F,scaffold,static,CM-,,,,,,S10,MSCs on scaffolds (clone),7/16/2013,7/17/2013,,/2013-07-17,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,M,scaffold,static,CM-,,,,,,S11,MSCs on scaffolds (clone),7/17/2013,7/18/2013,,/2013-07-18,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,P,scaffold,DL,CM-,,,,,,S12,MSCs on scaffolds (clone),7/21/2013,7/22/2013,,/2013-07-22/P DL Scaffold,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,M,scaffold,DL,CM-,,,,,,S13,MSCs on scaffolds (clone),7/24/2013,7/25/2013,,/2013-07-25,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,DL,CM-,,,,,,S14,MSCs on scaffolds (checking to see if dynamic loading works),several,several,,,n,N/A,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,L,scaffold,DL,CM-,,,,,,S15,MSCs on scaffolds (clone),,,,,,,,,,,,,,,,,,,,,,,
+MSC,J,scaffold,DL,CM-,,,,,,S16,MSCs on scaffolds (clone),,,,,,,,,,,,,,,,,,,,,,,
+MSC,P,scaffold,static,CM-,,,,,,S17,MSCs on scaffolds (clone),,,,,,,,,,,,,,,,,,,,,,,
+MSC,L,scaffold,static,CM-,,,,,,S18,MSCs on scaffolds (clone),,,,,,,,,,,,,,,,,,,,,,,
+MSC,J,scaffold,static,CM-,,,,,,S19,MSCs on scaffolds (clone),,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM+,,,,,,G3,small colonies before passaging,8/7/2013,8/8/2013,,/2013-08-08,y,y,,large/small colonies,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,scaffold,static,CM-,,0,,,,S20,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,scaffold,static,CM+,,0,,,,S21,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,scaffold,static,CM-,,4,,,,S22,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,scaffold,static,CM+,,4,,,,S23,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM-,,0,,,,G4,glass and scaffold direct comparison,8/20/2013,8/21/2013,,/2013-08-21,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,glass,static,CM+,,0,,,,G5,glass and scaffold direct comparison,8/20/2013,8/22/2013,,/2013-08-22,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,glass,static,CM-,,4,,,,G6,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM+,,4,,,,G7,glass and scaffold direct comparison,,,,,,,,,,,,,,,,,,,,,,,
+MFC,in,scaffold,static,CM-,,4,,,,S24,meniscus cells on scaffold (also comparison with glass),8/29/2013,8/30/2013,,/2013-08-30/MFC in,ish,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MFC,out,scaffold,static,CM-,,4,,,,S25,meniscus cells on scaffold (also comparison with glass),8/29/2013,8/30/2013,,/2013-08-30/MFC out,ish,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MFC,in,glass,static,CM-,,4,,,,G8,meniscus cells on scaffold (also comparison with glass),8/25/2013,8/26/2013,,/2013-08-26/MFC in,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MFC,in,glass,static,CM+,,4,,,,G9,meniscus cells on scaffold (also comparison with glass),,,,,,,,,,,,,,,,,,,,,,,
+MFC,out,glass,static,CM-,,4,,,,G10,meniscus cells on scaffold (also comparison with glass),8/25/2013,8/26/2013,,/2013-08-26/MFC out,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MFC,out,glass,static,CM+,,4,,,,G11,meniscus cells on scaffold (also comparison with glass),,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,CM-,1,,0,,,G12,testing new adipo/osteo probes on cells on glass,8/26/2013,8/27/2013,,/2013-08-27/Donor1,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,glass,static,CM-,2,,0,,,G13,testing new adipo/osteo probes on cells on glass,8/26/2013,8/27/2013,,/2013-08-27/Donor2,y,y,,,,,,,,alexa594,COMP,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+MSC,het,glass,static,CM-,,0,,,,G14,testing new adipo/osteo probes on cells on glass,9/16/2013,9/17/2013,,/2013-09-17/CM Minus,y,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,CM+,,0,,,,G15,testing new adipo/osteo probes on cells on glass,9/16/2013,9/17/2013,,/2013-09-17/CM Plus,y,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,CM-,1,,2,,,G16,testing new adipo/osteo probes on cells on glass,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,CM-,2,,2,,,G17,testing new adipo/osteo probes on cells on glass,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,CM-,1,,3,,,G18,testing new adipo/osteo probes on cells on glass,9/19/2013,9/19/2013,,/2013-09-19,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,CM-,2,,3,,,G19,testing new adipo/osteo probes on cells on glass,9/19/2013,9/19/2013,,/2013-09-19,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,pellet,static,CM-,NA,0,,,,T1,test of MSCs in pellets,9/16/2013,9/17/2013,,/2013-09-17/pellet,n,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,Adipo,NA,7,,,,G20,adipo/osteo media to test for expression of new adipo/osteo test genes,9/24/2013,9/26/2013,,/2013-09-26/adipo,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,Osteo,NA,7,,,,G21,adipo/osteo media to test for expression of new adipo/osteo test genes,9/24/2013,9/26/2013,,/2013-09-26/osteo,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,-1,,,G22,chondrocyte dedifferentiation core,10/8/2013,10/9/2013,,/2013-10-09,?,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,Basal,NA,,,,,A1,test of random cells in agarose ,10/6/2013,10/7/2013,,/2013-10-08,n,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,0,,,G23,chondrocyte dedifferentiation core,10/15/2013,10/16/2013,,/2013-10-16/Donor4,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,0,,,G24,chondrocyte dedifferentiation core,10/15/2013,10/16/2013,,/2013-10-16/Donor6,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,-1,,,G25,chondrocyte dedifferentiation core,10/14/2013,10/15/2013,,/2013-10-15,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,Basal,4,,0,,,A2,chondrocytes in agarose test,10/14/2013,10/15/2013,,/2013-10-15/gel,,,,mixed fixed chondrocytes with agarose and made 6uL gels,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,1,,,G26,chondrocyte dedifferentiation core,10/17/2013,10/18/2013,,/2013-10-18,y,y,CM,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,1,,,G27,chondrocyte dedifferentiation core,10/17/2013,10/18/2013,,/2013-10-18,y,y,CM,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,2,,,G28,chondrocyte dedifferentiation core,10/27/2013,10/28/2013,,/2013-10-28,y,y,CM,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,2,,,G29,chondrocyte dedifferentiation core,10/27/2013,10/28/2013,,/2013-10-28,y,y,CM,some unsegmented but overlapping cells not analyzed,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,3,,,G30,chondrocyte dedifferentiation core,10/30/2013,10/31/2013,,/2013-10-31/D4,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,3,,,G31,chondrocyte dedifferentiation core,10/30/2013,10/31/2013,,/2013-10-31/D6,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,4,,,G32,chondrocyte dedifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,Basal,6,,4,,,G33,chondrocyte dedifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,Basal,4,,5,,,G34,chondrocyte dedifferentiation core,4/17/2014,4/18/2014,,/2014-04-18/Don4 - P5,y,y,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,5,,,G35,chondrocyte dedifferentiation core,4/17/2014,4/18/2014,,/2014-04-18/Don6 - P5,y,y,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,4,1,NA,,,A3,ultra thin gels test,10/24/2013,10/25/2013,,/2013-10-25,,,AC,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,4,1,NA,,,A4,ultra thin gels test,10/28/2013,10/29/2013,,/2013-10-29,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,4,7,NA,,,A5,ultra thin gels test,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,4,7,NA,,,A6,ultra thin gels test,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,4,14,NA,,,A7,ultra thin gels test,11/20/2013,11/21/2013,,/2013-11-21/CM Minus,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,4,14,NA,,,A8,ultra thin gels test,11/20/2013,11/21/2013,,/2013-11-21/CM Plus,,,,,,,,,,,,,,,,,,,
+adipocyte,het,glass,static,NA,6,,tissue,,,,tissue FISH test,11/19/2013,11/20/2013,,/2013-11-20/fat,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,NA,6,,tissue,,,,tissue FISH test,11/19/2013,11/20/2013,,/2013-11-20/cartilage,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,4,28,NA,,,A9,ultra thin gels test,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,4,28,NA,,,A10,ultra thin gels test,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,Basal,4,,7,,,G36,chondrocyte dedifferentiation core,11/21/2013,11/22/2013,,/2013-11-22/Donor 4,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,7,,,G37,chondrocyte dedifferentiation core,11/21/2013,11/22/2013,,/2013-11-22/Donor 6,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4,,9,,,G38,chondrocyte dedifferentiation core,12/12/2013,12/13/2013,,/2013-12-13/ChonP9 D4,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,6,,9,,,G39,chondrocyte dedifferentiation core,12/12/2013,12/13/2013,,/2013-12-13/ChonP9 D6,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,0,,,G40,chondrocyte dedifferentiation core,1/23/2014,1/24/2014,,/2014-01-24/Donor 1,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,0,,,G41,chondrocyte dedifferentiation core,1/23/2014,1/24/2014,,/2014-01-24/Donor 4B,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,1,,,G42,chondrocyte dedifferentiation core,1/27/2014,1/28/2014,,/2014-01-28/Donor 1,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,1,,,G43,chondrocyte dedifferentiation core,1/27/2014,1/28/2014,,/2014-01-28/Donor 4B,,Y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,3,,,G44,chondrocyte dedifferentiation core,3/18/2014,3/19/2014,,/2014-03-19/Don1,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,3,,,G45,chondrocyte dedifferentiation core,3/18/2014,3/19/2014,,/2014-03-19/Don4B,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,5,,,G46,chondrocyte dedifferentiation core,2/17/2014,2/18/2014,,/2014-02-18/Don1,ish,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,5,,,G47,chondrocyte dedifferentiation core,2/17/2014,2/18/2014,,/2014-02-18/Don4b,ish,Y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,7,,,G48,chondrocyte dedifferentiation core,3/24/2014,3/25/2014,,/2014-03-25/Don1,ish,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,7,,,G49,chondrocyte dedifferentiation core,3/24/2014,3/25/2014,,/2014-03-25/Don4B,ish,Y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,3,1,NA,,,A11,MSCs het differentiation in gels core,3/4/2014,3/5/2014,,/2014-03-05,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,1,NA,,,A12,MSCs het differentiation in gels core,2/4/2014,2/5/2014,,/2014-02-05,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,3,4,NA,,,A13,MSCs het differentiation in gels core,3/6/2014,3/7/2014,,/2014-03-07,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,4,NA,,,A14,MSCs het differentiation in gels core,2/19/2014,2/20/2014,,/2014-02-20,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,3,7,NA,,,A15,MSCs het differentiation in gels core,2/12/2014,2/14/2014,,/2014-02-14,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,7,NA,,,A16,MSCs het differentiation in gels core,2/10/2014,2/11/2014,,/2014-02-11,,y AC,,"(didn't look good, redid it as A21)",,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,3,14,NA,,,A17,MSCs het differentiation in gels core,3/11/2014,3/12/2014,,/2014-03-12,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,14,NA,,,A18,MSCs het differentiation in gels core,2/26/2014,2/27/2014,,/2014-02-27,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,3,21,NA,,,A19,MSCs het differentiation in gels core,3/3/2014,3/4/2014,,/2014-03-04,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,21,NA,,,A20,MSCs het differentiation in gels core,2/25/2014,2/26/2014,,/2014-02-26,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,3,7,NA,,,A21,MSCs het differentiation in gels core,2/18/2014,2/19/2014,,/2014-02-19,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,9,,,G50,chondrocyte dedifferentiation core,3/26/2014,3/27/2014,,/2014-03-27/Don1,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,9,,,G51,chondrocyte dedifferentiation core,3/26/2014,3/27/2014,,/2014-03-27/Don4B,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,CM+,,,,,,G52,live imaging test,7/16/2014,7/17/2014,,"/2014-07-17_timelapse_FISH/timelapse_FISH_bigpos1, /2014-07-17_timelapse_FISH/timelapse_FISH_bigpos2",,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,CM-,,,,,,G53,live imaging test,7/16/2014,7/17/2014,,"/2014-07-17_timelapse_FISH/timelapse_FISH_bigpos3, /2014-07-17_timelapse_FISH/timelapse_FISH_bigpos4",,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,Basal,,,,,,G54,live imaging test,7/16/2014,7/17/2014,,"/2014-07-17_timelapse_FISH/timelapse_FISH_bigpos5, /2014-07-17_timelapse_FISH/timelapse_FISH_bigpos6",,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,Basal Imaging,,,,,,G55,live imaging test,7/16/2014,7/17/2014,,"/2014-07-17_timelapse_FISH/timelapse_FISH_bigpos7, /2014-07-17_timelapse_FISH/timelapse_FISH_bigpos8",,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,1,,0,,,G56,chondrocyte dedifferentiation core,3/27/2014,3/28/2014,,/2014-03-28/Don1,,y CMM,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,Basal,4B,,0,,,G57,chondrocyte dedifferentiation core,3/27/2014,3/28/2014,,/2014-03-28/Don4B,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,0,,FixDead,,A22,MSCs het differentiation in gels core,4/30/2014,5/2/2014,,/2014-05-02_D0_FD_gel,not really,y AC,,"TMR is a bit inconsistent, maybe due to FD staining?",,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,0,,FixDead,,A23,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,1,,FixDead,,A24,MSCs het differentiation in gels core,5/6/2014,5/7/2014,new?,/2014-05-07_D1_FD_gel_CMminus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,1,,FixDead,,A25,MSCs het differentiation in gels core,5/5/2014,5/6/2014,old,/2014-05-06_D1_FD_gel_CMplus,,y AC,,"TMR is a bit inconsistent, maybe due to FD staining?",,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,4,,FixDead,,A26,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,4,,FixDead,,A27,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,7,,FixDead,,A28,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,7,,FixDead,,A29,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,14,,FixDead,,A30,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,14,,FixDead,,A31,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,21,,FixDead,,A32,MSCs het differentiation in gels core,6/12/2014,6/13/2014,,/2014-06-13_D21_MSCs_rep2_gel_CMminus,,,,GFP to TMR bleedthrough,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,21,,FixDead,,A33,MSCs het differentiation in gels core,6/13/2014,6/14/2014,,/2014-06-14_D21_MSCs_rep2_gel_CMplus,,,,GFP to TMR bleedthrough,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,0,,,,A34,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,0,,,,A35,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,1,,,,A36,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,1,,,,A37,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,4,,,,A38,MSCs het differentiation in gels core,7/8/2014,7/9/2014,,/2014-07-09_R2_MSC_D4/R2_MSC_gel_CMminus_D4,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,4,,,,A39,MSCs het differentiation in gels core,7/8/2014,7/9/2014,,/2014-07-09_R2_MSC_D4/R2_MSC_gel_CMplus_D4,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,7,,,,A40,MSCs het differentiation in gels core,7/24/2014,7/25/2014,,/2014-07-25_MSC_R2_gel_D7/MSC_R2_gel_D7_CMminus,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,7,,,,A41,MSCs het differentiation in gels core,7/24/2014,7/25/2014,,/2014-07-25_MSC_R2_gel_D7/MSC_R2_gel_D7_CMplus,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,14,,,,A42,MSCs het differentiation in gels core,7/9/2014,7/10/2014,,/2014-07-10_R2_MSC_D14/R2_MSC_gel_CMminus_D14,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,14,,,,A43,MSCs het differentiation in gels core,7/9/2014,7/10/2014,,/2014-07-10_R2_MSC_D14/R2_MSC_gel_CMplus_D14,,y AC,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,5,21,,,,A44,MSCs het differentiation in gels core,11/23/2014,11/24/2014,,/2014-11-24_donor5_D21_MSC_gels/Donor5_cmminus_D21,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,21,,,,A45,MSCs het differentiation in gels core,11/23/2014,11/24/2014,,/2014-11-24_donor5_D21_MSC_gels/Donor5_cmplus_D21,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,0,,DTAF,,A46,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,0,,DTAF,,A47,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,1,,DTAF,,A48,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,1,,DTAF,,A49,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,4,,DTAF,,A50,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,4,,DTAF,,A51,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,7,,DTAF,,A52,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,7,,DTAF,,A53,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,14,,DTAF,,A54,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,14,,DTAF,,A55,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,5,21,,DTAF,,A56,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,5,21,,DTAF,,A57,MSCs het differentiation in gels core,10/5/2014,10/6/2014,,/2014-10-07_DTAFandalcianbluetest/IF_alcianblue_noFISH,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,Basal,5,0,,,,G58,MSCs het differentiation in gels core (D0 MSCs on glass),5/21/2014,5/22/2014,,/2014-05-22_D0_MSCs_rep2_glass,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,0,,FixDead,,A58,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,0,,FixDead,,A59,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,1,,FixDead,,A60,MSCs het differentiation in gels core,6/4/2014,6/5/2014,,/2014-06-05_D1_MSCs_rep3_gel_CMminus,,y AC,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,1,,FixDead,,A61,MSCs het differentiation in gels core,6/11/2014,6/12/2014,,/2014-06-12_D1_MSCs_rep3_gel_CMplus,,y AC,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,4,,FixDead,,A62,MSCs het differentiation in gels core,6/26/2014,6/27/2014,,/2014-06-27_D4_MSCs_rep3_gels_f1_55kPa_basal/R3_MSC_gel_D4_CMminus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,4,,FixDead,,A63,MSCs het differentiation in gels core,6/25/2014,6/26/2014,,/2014-06-26_D4_D7_MSCs_rep3_gels/R3_MSC_gel_D4_CMplus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,7,,FixDead,,A64,MSCs het differentiation in gels core,6/25/2014,6/26/2014,,/2014-06-26_D4_D7_MSCs_rep3_gels/R3_MSC_gel_D7_CMminus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,7,,FixDead,,A65,MSCs het differentiation in gels core,6/22/2014,6/23/2014,,/2014-06-23_D14_D7_MSCs_rep3_gels/rep3_D7_mscs_CMplus_maybe,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,14,,FixDead,,A66,MSCs het differentiation in gels core,6/22/2014,6/23/2014,,/2014-06-23_D14_D7_MSCs_rep3_gels/rep3_D14_mscs_CMminus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,14,,FixDead,,A67,MSCs het differentiation in gels core,6/19/2014,6/20/2014,,/2014-06-20_D14_MSCs_rep3_gel_CMplus,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,21,,FixDead,,A68,MSCs het differentiation in gels core,6/2/2014,6/3/2014,,/2014-06-03_D21_MSCs_rep3_gel_CMminus,,y AC,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,21,,FixDead,,A69,MSCs het differentiation in gels core,6/3/2014,6/4/2014,,/2014-06-04_D21_MSCs_rep3_gel_CMplus,,y AC,,"sooooo many dead cells, but definitely some live ones too",,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,0,,,,A70,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,0,,,,A71,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,1,,,,A72,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,1,,,,A73,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,4,,,,A74,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,4,,,,A75,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,7,,,,A76,MSCs het differentiation in gels core,7/23/2014,7/24/2014,,/2014-07-24_MSC_R3_gel_D7/MSC_R3_gel_D7_CMminus,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,7,,,,A77,MSCs het differentiation in gels core,7/23/2014,7/24/2014,,/2014-07-24_MSC_R3_gel_D7/MSC_R3_gel_D7_CM+,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM-,7,14,,,,A78,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,14,,,,A79,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,21,,,,A80,MSCs het differentiation in gels core,11/20/2014,11/21/2014,,/2014-11-21_donor7_rep3_CM-_d21,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,21,,,,A81,MSCs het differentiation in gels core,11/18/2014,11/19/2014,,/2014-11-19_R3_D21_CMplus_nostain,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,0,,DTAF,,A82,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,0,,DTAF,,A83,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,1,,DTAF,,A84,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,1,,DTAF,,A85,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,4,,DTAF,,A86,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,4,,DTAF,,A87,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,7,,DTAF,,A88,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,7,,DTAF,,A89,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,14,,DTAF,,A90,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,14,,DTAF,,A91,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,7,21,,DTAF,,A92,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,7,21,,DTAF,,A93,MSCs het differentiation in gels core,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,PA - 55kPA,static,adipo/osteo,8,7,,,,P1,Fig 1 - MSCs on different substrates,6/18/2014,6/19/2014,,/2014-06-19_fig1_mscs/fig1_MSCs_55kPA-PA_D7_ados,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,PA - 55kPA,static,adipo/osteo,8,7,,,,P2,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,PA - 5kPA,static,adipo/osteo,8,7,,,,P3,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,PA - 5kPA,static,adipo/osteo,8,7,,,,P4,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,basal,8,7,,,,A94,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,basal,8,7,,,,A95,Fig 1 - MSCs on different substrates,7/29/2014,7/30/2014,,/2014-07-30_fig1_MSCs/Fig1_MSC_agarose,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,basal,8,7,,,,G66,Fig 1 - MSCs on different substrates,6/18/2014,6/19/2014,,/2014-06-19_fig1_mscs/fig1_MSCs_glass_basal,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,basal,8,7,,,,G59,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,scaffold,static,basal,8,7,,,,S26,Fig 1 - MSCs on different substrates,7/28/2014,7/29/2014,,/2014-07-29_fig1scaffold_P0Don3glassCHrediff/Fig1_MSC_scaffold,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,scaffold,static,basal,8,7,,,,S27,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,PA - 55kPA,static,basal,8,7,,,,P5,Fig 1 - MSCs on different substrates,6/26/2014,6/27/2014,,/2014-06-27_D4_MSCs_rep3_gels_f1_55kPa_basal/fig1_MSCs_basal_55kPa,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,PA - 55kPA,static,basal,8,7,,,,P6,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,PA - 5kPA,static,basal,8,7,,,,P7,Fig 1 - MSCs on different substrates,7/29/2014,7/30/2014,,/2014-07-30_fig1_MSCs/Fig1_MSC_PAgel_5kPa,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,PA - 5kPA,static,basal,8,7,,,,P8,Fig 1 - MSCs on different substrates,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,1B,1,0,FixDead,,A96,chondrocyte redifferentiation core,7/7/2014,7/8/2014,,/2014-07-08_Don1B_CH_gel_P0_D1-D14/Don1B_CH_gel_P0_D1,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,FixDead,,A97,chondrocyte redifferentiation core,7/7/2014,7/8/2014,,/2014-07-08_Don1B_CH_gel_P0_D1-D14/Don1B_CH_gel_P0_D14,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,1,0,,,A98,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,1B,14,0,,,A99,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,basal,1B,1,0,,,G60,chondrocyte redifferentiation core,7/21/2014,7/22/2014,,/2014-07-22_CH_rediff/CH_P0_glass_Don1B,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,basal,1B,1,5,,,G61,chondrocyte redifferentiation core,7/27/2014,7/28/2014,,/2014-07-28_CHrediff_P5_glass/CHrediff_glass_P5_Don1B,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,1,5,FixDead,,A100,chondrocyte redifferentiation core,7/15/2014,7/16/2014,,/2014-07-16_P5_CH_gels/2014-07-16_Don1B_CH_gel_P5_D1,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,5,FixDead,,A101,chondrocyte redifferentiation core,7/21/2014,7/22/2014,,/2014-07-22_CH_rediff/CH_P5_gel_Don1B_D14,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,1,5,,,A102,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,1B,14,5,,,A103,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,2,1,0,FixDead,,A104,chondrocyte redifferentiation core,8/18/2014,8/19/2014,,/2014-08-19_chon_rediff_Don2/P0_D1_Don2_chon_rediff,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,14,0,FixDead,,A105,chondrocyte redifferentiation core,8/18/2014,8/19/2014,,/2014-08-19_chon_rediff_Don2/P0_D14_Don2_chon_rediff,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,1,0,,,A106,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,2,14,0,,,A107,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,basal,2,1,0,,,G62,chondrocyte redifferentiation core,7/21/2014,7/22/2014,,/2014-07-22_CH_rediff/CH_P0_glass_Don2,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,basal,2,1,5,,,G63,chondrocyte redifferentiation core,7/27/2014,7/28/2014,,/2014-07-28_CHrediff_P5_glass/CHrediff_glass_P5_Don2,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,1,5,FixDead,,A108,chondrocyte redifferentiation core,8/18/2014,8/19/2014,,/2014-08-19_chon_rediff_Don2/P5_D1_Don2_chon_rediff,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,14,5,FixDead,,A109,chondrocyte redifferentiation core,8/18/2014,8/19/2014,,/2014-08-19_chon_rediff_Don2/P5_D14_Don2_chon_rediff,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,1,5,,,A110,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,2,14,5,,,A111,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,11,1,0,FixDead,,A112,chondrocyte redifferentiation core,6/30/2014,7/1/2014,,/2014-07-01_Don3_CH_gel_P0_D1-D14/Don3_CH_gel_P0_D1,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,11,14,0,FixDead,,A113,chondrocyte redifferentiation core,6/30/2014,7/1/2014,,/2014-07-01_Don3_CH_gel_P0_D1-D14/Don3_CH_gel_P0_D14,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,11,1,0,,,A114,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,11,14,0,,,A115,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,glass,static,basal,11,1,0,,,G64,chondrocyte redifferentiation core,7/28/2014,7/29/2014,,/2014-07-29_fig1scaffold_P0Don3glassCHrediff/CHrediff_glass_P0_Don3,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,basal,11,1,5,,,G65,chondrocyte redifferentiation core,7/27/2014,7/28/2014,,/2014-07-28_CHrediff_P5_glass/CHrediff_glass_P5_Don3,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,11,1,5,FixDead,,A116,chondrocyte redifferentiation core,7/15/2014,7/16/2014,,/2014-07-16_P5_CH_gels/2014-07-16_Don3_CH_gel_P5_D1,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,11,14,5,FixDead,,A117,chondrocyte redifferentiation core,7/15/2014,7/16/2014,,/2014-07-16_P5_CH_gels/2014-07-16_Don3_CH_gel_P5_D14,,,,,,,atto488,FixableDead,dead cells,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,11,1,5,,,A118,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,11,14,5,,,A119,chondrocyte redifferentiation core,,,,,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,11,14,0,,AlcianBlue,A120,Alcian Blue FISH test,8/6/2014,8/7/2014,,/2014-08-07_chon_D14Don3P1_alcian_blue,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A121,Alcian Blue FISH test,10/7/2014,10/8/2014,,/2014-10-08_alcian_blue_with_modified_FISH,,,,stained 2014-10-6,,,,,,,,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A122,Alcian Blue FISH test,10/16/2014,10/17/2014,,,,,,,pH 2.5 Alcian blue,10 minutes,,,,alexa594,GAPDH,,,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A123,Alcian Blue FISH test,10/19/2014,10/20/2014,,,,,,longer ethanol wash than A122,pH 2.5 Alcian blue,10 minutes,,,,alexa594,GAPDH,,,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,,A124,Alcian Blue FISH test,10/20/2014,10/21/2014,,/2014-10-21_pH25_treatment_and_control/pH2_5_treated,,,,control for new Alcian blue protocol RNA degredation,pH 2.5 acetic acid,20 minutes,,,,alexa594,GAPDH,,,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,,A125,Alcian Blue FISH test,10/20/2014,10/21/2014,,/2014-10-21_pH25_treatment_and_control/nfwater_control,,,,,NF water,20 minutes,,,,alexa594,GAPDH,,,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A126,Alcian Blue FISH test,10/21/2014,10/22/2014,,/2014-10-22_pH25_AlB_1to100_withFISH,,,,,pH 2.5 Alcian blue 1:100,20 minutes,,,,alexa594,GAPDH,,,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A127,Alcian Blue FISH test,10/22/2014,10/23/2014,,,,,,,pH 2.5 Alcian blue 1:100,20 minutes,,,,,,,,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A128,Alcian Blue FISH test,10/22/2014,10/23/2014,,/2014-10-23_pH25_AlB_1to100_withmanyFISH/pH25_AlB_1to100_withFISH_gapcy3agg647,,,,,pH 2.5 Alcian blue 1:100,20 minutes,,,,,,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,AlcianBlue,A129,Alcian Blue FISH test,10/22/2014,10/23/2014,,/2014-10-23_pH25_AlB_1to100_withmanyFISH/pH25_AlB_1to100_withFISH_aggcy3gap647,,,,,pH 2.5 Alcian blue 1:100,20 minutes,,,,,,cy3,aggrecan,a647N,GAPDH,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,DTAF,AlcianBlue,A130,Alcian Blue FISH test,11/3/2014,11/4/2014,,/2014-11-04_gelFISH_before-alcian-blue_individualpositions,,,,"Alcian blue imaged day after FISH, no squishing",standard Alcian blue,,a488,DTAF,,,,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,DTAF,AlcianBlue,A131,Alcian Blue FISH test,11/3/2014,11/5/2014,,/2014-11-05_gel-before-alcian-blue-scan_NOPERFECTFOCUS,,,,,,,,,,,,,,,,,,,
+chondrocyte,het,agarose,static,basal,1B,14,0,,Aggrecan-IF,A132,Aggrecan Ab test,11/11/2014,11/12/2014,,/2014-11-12_aggrecan_Ab_and_sponge_tests/aggrecan_Ab_with_FISH,,,,,Aggrecan IF WITH hyb,,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,Aggrecan-IF,A133,Aggrecan Ab test,11/11/2014,11/12/2014,,/2014-11-12_aggrecan_Ab_and_sponge_tests/Ab_after_FISH,,,,,Aggrecan IF AFTER hyb in 2XSSC,,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,1B,14,0,,,A134,metal sponge squish test,11/11/2014,11/12/2014,,/2014-11-12_aggrecan_Ab_and_sponge_tests/gel_under_metal_sponge_FISH,,,,metal sponge squished,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,14,0,DTAF,Aggrecan-IF,A135,Aggrecan Ab test,11/13/2014,11/15/2014,,/2014-11-15_Ab_whole_protocol_after_FISH/Ab_after_FISH_SSCmount,,,,2XSSC mount,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,agarose,static,basal,2,14,0,DTAF,Aggrecan-IF,A136,Aggrecan Ab test,11/13/2014,11/15/2014,new,/2014-11-15_Ab_whole_protocol_after_FISH/Ab_after_FISH_PBSmount,,,,PBS mount,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+chondrocyte,het,glass,static,basal,,,,,,G67,practice chondrocytes for stellarvision and scan - plate 1 well1,11/12/2014,11/13/2014,,/StellarVision_Images/2014-11-14_well1_mix1_agg637-gapcy3_5x5_01,,,,imaged on Stellarvision,,,,,,,,cy3,GAPDH,a647N,aggrecan,,,dapi,DNA
+chondrocyte,het,glass,static,basal,,,,,,G68,practice chondrocytes for stellarvision and scan - plate 1 well 2,11/12/2014,11/13/2014,,/StellarVision_Images/2014-11-14_well2_mix2_gap647-osteocy3_5x5_01,,,,imaged on Stellarvision,,,,,,,,cy3,osteopontin,a647N,GAPDH,,,dapi,DNA
+MSC,het,agarose,static,CM+,3,7,,,Aggrecan-IF,A137,Aggrecan Ab on MSCs,12/12/2014,12/13/2014,new,/2014-12-13_mscdiff_aggab_donor3_rep1_d7_cmplus,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,5,7,,,Aggrecan-IF,A138,Aggrecan Ab on MSCs,12/5/2014,12/6/2014,new,/2014-12-06_mscdiff_aggab_donor5_rep2_d7_cmplus,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,7,7,,,Aggrecan-IF,A139,Aggrecan Ab on MSCs,12/8/2014,12/9/2014,new,/2014-12-09_mscdiff_aggab_donor7_rep3_d7_cmplus,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,8,7,,,Aggrecan-IF,A140,Aggrecan Ab on MSCs,1/28/2015,1/29/2015,new,/2015-01-29_newDonorMSCAggAb/2015-01-29_donor8_day7CMplus,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,8,7,,,,A141,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,8,7,,,,A142,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,8,7,,,,A143,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,9,7,,,Aggrecan-IF,A144,Aggrecan Ab on MSCs,1/28/2015,1/29/2015,new,/2015-01-29_newDonorMSCAggAb/2015-01-29_donor9_day7CMplus,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,9,7,,,,A145,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,9,7,,,,A146,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,9,7,,,,A147,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,10,7,,,Aggrecan-IF,A148,Aggrecan Ab on MSCs,2/2/2015,2/3/2015,new,/2015-02-02_newDonorMSCAggAb_donor10,,,,,"Aggrecan IF AFTER FISH, full protocol",,a488,IF,aggrecan,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,agarose,static,CM+,10,7,,,,A149,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM+,10,7,,,,A150,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,agarose,static,CM-,10,7,,,,A151,Aggrecan Ab on MSCs,,,,,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM+,15,1,,,,G69,timelapse-FISH,12/1/2014,12/2/2014,new,/2014-12-02_timelapse-FISH/stitched,,,,,,,,,,alexa594,LPL,cy3,osteopontin,a647N,aggrecan,atto700,GAPDH,dapi,DNA
+MSC,het,glass,static,CM+,15,1,,,,G70,timelapse-FISH,12/1/2014,12/2/2014,new,/2014-12-02_timelapse-FISH-RIGHTWELL/stitched,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM+,15,1,,,,G71,timelapse-FISH,12/1/2014,12/3/2014,new,/2014-12-03_timelapse-FISH_top-of-left-well/stitched,,,,,,,,,,,,,,,,,,,
+MSC,het,glass,static,CM+,15,1,,,,G72,timelapse-FISH,12/1/2014,12/4/2014,new,/2014-12-04_timelapse-FISH-RIGHTWELL-righthalf/stitched,,,,,,,,,,,,,,,,,,,
